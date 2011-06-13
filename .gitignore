@@ -1,0 +1,2 @@
+vendor/ruby/*
+config/database.yml
